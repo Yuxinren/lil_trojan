@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lil_trojan/static/css/main.3ed737ea.css",
+    "main.js": "/lil_trojan/static/js/main.b3e90564.js",
+    "static/media/quickDemo.mp4": "/lil_trojan/static/media/quickDemo.8f3bb7c321ba2160545a.mp4",
+    "static/media/aboutSpeaker.png": "/lil_trojan/static/media/aboutSpeaker.3110ffd46bb6af7f1fc5.png",
+    "static/media/peterren.png": "/lil_trojan/static/media/peterren.5c1c7a6f7a6cdbe7a19e.png",
+    "static/media/speaker.png": "/lil_trojan/static/media/speaker.13fdafba17d7bc737660.png",
+    "static/media/home-banner-background.png": "/lil_trojan/static/media/home-banner-background.585600da7ff85661555e.png",
+    "index.html": "/lil_trojan/index.html",
+    "static/media/Logo.svg": "/lil_trojan/static/media/Logo.2596f73453365ef947049f6ae1120a5d.svg",
+    "main.3ed737ea.css.map": "/lil_trojan/static/css/main.3ed737ea.css.map",
+    "main.b3e90564.js.map": "/lil_trojan/static/js/main.b3e90564.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ed737ea.css",
+    "static/js/main.b3e90564.js"
+  ]
+}
